@@ -541,7 +541,8 @@ button:hover {
     }
 
     .img {
-        margin-left: 10%;
+       display: flex;
+       justify-content: center;
 
     }
 
